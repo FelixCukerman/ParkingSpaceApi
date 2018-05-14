@@ -11,3 +11,4 @@ C:\Users\Felix Cukerman\Documents\GitProject\ParkingSpaceApi\ParkingApi\obj\Debu
 C:\Users\Felix Cukerman\Documents\GitProject\ParkingSpaceApi\ParkingApi\obj\Debug\netcoreapp2.0\ParkingApi.csproj.CopyComplete
 C:\Users\Felix Cukerman\Documents\GitProject\ParkingSpaceApi\ParkingApi\obj\Debug\netcoreapp2.0\ParkingApi.dll
 C:\Users\Felix Cukerman\Documents\GitProject\ParkingSpaceApi\ParkingApi\obj\Debug\netcoreapp2.0\ParkingApi.pdb
+C:\Users\Felix Cukerman\Documents\GitProject\ParkingSpaceApi\ParkingApi\obj\Debug\netcoreapp2.0\ParkingApi.csprojResolveAssemblyReference.cache
