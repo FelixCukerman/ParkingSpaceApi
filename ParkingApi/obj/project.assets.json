@@ -4746,6 +4746,16 @@
         "runtime": {
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
         }
+      },
+      "ParkingLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "compile": {
+          "bin/placeholder/ParkingLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ParkingLibrary.dll": {}
+        }
       }
     }
   },
@@ -12528,12 +12538,18 @@
         "windowsazure.storage.8.1.4.nupkg.sha512",
         "windowsazure.storage.nuspec"
       ]
+    },
+    "ParkingLibrary/1.0.0": {
+      "type": "project",
+      "path": "../ParkingLibrary/ParkingLibrary.csproj",
+      "msbuildProject": "../ParkingLibrary/ParkingLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "Microsoft.AspNetCore.All >= 2.0.7",
-      "Microsoft.NETCore.App >= 2.0.0"
+      "Microsoft.NETCore.App >= 2.0.0",
+      "ParkingLibrary >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -12563,7 +12579,11 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Felix Cukerman\\Documents\\GitProject\\ParkingSpaceApi\\ParkingLibrary\\ParkingLibrary.csproj": {
+              "projectPath": "C:\\Users\\Felix Cukerman\\Documents\\GitProject\\ParkingSpaceApi\\ParkingLibrary\\ParkingLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
