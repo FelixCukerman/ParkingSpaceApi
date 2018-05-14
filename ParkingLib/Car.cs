@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HomeTask3_Experimental_.Parking
+namespace ParkingLib
 {
     class Car
     {

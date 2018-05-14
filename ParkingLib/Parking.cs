@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using System.IO;
 using System.Runtime.Serialization.Formatters.Binary;
 
-namespace HomeTask3_Experimental_.Parking
+namespace ParkingLib
 {
     class Parking
     {
