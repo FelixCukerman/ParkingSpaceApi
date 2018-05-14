@@ -11,11 +11,11 @@ namespace ParkingApi.Services
 {
     public class ParkingService
     {
-        private Parking.Parking parking;
+        private Parking parking;
 
         public ParkingService()
         {
-            parking = Parking.Parking.Create;
+            parking = Parking.Create;
         }
 
         public async Task<string> GetFreePlace()

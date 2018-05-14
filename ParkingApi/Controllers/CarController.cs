@@ -9,7 +9,7 @@ using Newtonsoft.Json;
 using ParkingApi.Services;
 using ParkingLib;
 
-namespace HomeTask3_Experimental_.Controllers
+namespace ParkingApi.Controllers
 {
     [Produces("application/json")]
     public class CarController : Controller

@@ -6,10 +6,10 @@ using System.Net.Http;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
-using HomeTask3_Experimental_.Services;
-using HomeTask3_Experimental_.Parking;
+using ParkingApi.Services;
+using ParkingLib;
 
-namespace HomeTask3_Experimental_.Controllers
+namespace ParkingApi.Controllers
 {
     [Produces("application/json")]
     public class ParkingController : Controller
