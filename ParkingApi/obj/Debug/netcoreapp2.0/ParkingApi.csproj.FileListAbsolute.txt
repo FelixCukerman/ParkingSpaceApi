@@ -1,0 +1,14 @@
+C:\Users\Felix Cukerman\Documents\GitProject\ParkingSpaceApi\ParkingApi\bin\Debug\netcoreapp2.0\ParkingApi.deps.json
+C:\Users\Felix Cukerman\Documents\GitProject\ParkingSpaceApi\ParkingApi\bin\Debug\netcoreapp2.0\ParkingApi.runtimeconfig.json
+C:\Users\Felix Cukerman\Documents\GitProject\ParkingSpaceApi\ParkingApi\bin\Debug\netcoreapp2.0\ParkingApi.runtimeconfig.dev.json
+C:\Users\Felix Cukerman\Documents\GitProject\ParkingSpaceApi\ParkingApi\bin\Debug\netcoreapp2.0\ParkingApi.dll
+C:\Users\Felix Cukerman\Documents\GitProject\ParkingSpaceApi\ParkingApi\bin\Debug\netcoreapp2.0\ParkingApi.pdb
+C:\Users\Felix Cukerman\Documents\GitProject\ParkingSpaceApi\ParkingApi\bin\Debug\netcoreapp2.0\ParkingLib.dll
+C:\Users\Felix Cukerman\Documents\GitProject\ParkingSpaceApi\ParkingApi\bin\Debug\netcoreapp2.0\ParkingLib.pdb
+C:\Users\Felix Cukerman\Documents\GitProject\ParkingSpaceApi\ParkingApi\obj\Debug\netcoreapp2.0\ParkingApi.csproj.CoreCompileInputs.cache
+C:\Users\Felix Cukerman\Documents\GitProject\ParkingSpaceApi\ParkingApi\obj\Debug\netcoreapp2.0\ParkingApi.AssemblyInfoInputs.cache
+C:\Users\Felix Cukerman\Documents\GitProject\ParkingSpaceApi\ParkingApi\obj\Debug\netcoreapp2.0\ParkingApi.AssemblyInfo.cs
+C:\Users\Felix Cukerman\Documents\GitProject\ParkingSpaceApi\ParkingApi\obj\Debug\netcoreapp2.0\ParkingApi.csproj.CopyComplete
+C:\Users\Felix Cukerman\Documents\GitProject\ParkingSpaceApi\ParkingApi\obj\Debug\netcoreapp2.0\ParkingApi.dll
+C:\Users\Felix Cukerman\Documents\GitProject\ParkingSpaceApi\ParkingApi\obj\Debug\netcoreapp2.0\ParkingApi.pdb
+C:\Users\Felix Cukerman\Documents\GitProject\ParkingSpaceApi\ParkingApi\obj\Debug\netcoreapp2.0\ParkingApi.csprojResolveAssemblyReference.cache
