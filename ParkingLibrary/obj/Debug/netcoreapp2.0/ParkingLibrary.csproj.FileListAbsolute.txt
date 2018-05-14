@@ -1,8 +1,0 @@
-C:\Users\Felix Cukerman\Documents\GitProject\ParkingSpaceApi\ParkingLibrary\bin\Debug\netcoreapp2.0\ParkingLibrary.deps.json
-C:\Users\Felix Cukerman\Documents\GitProject\ParkingSpaceApi\ParkingLibrary\bin\Debug\netcoreapp2.0\ParkingLibrary.dll
-C:\Users\Felix Cukerman\Documents\GitProject\ParkingSpaceApi\ParkingLibrary\bin\Debug\netcoreapp2.0\ParkingLibrary.pdb
-C:\Users\Felix Cukerman\Documents\GitProject\ParkingSpaceApi\ParkingLibrary\obj\Debug\netcoreapp2.0\ParkingLibrary.csproj.CoreCompileInputs.cache
-C:\Users\Felix Cukerman\Documents\GitProject\ParkingSpaceApi\ParkingLibrary\obj\Debug\netcoreapp2.0\ParkingLibrary.AssemblyInfoInputs.cache
-C:\Users\Felix Cukerman\Documents\GitProject\ParkingSpaceApi\ParkingLibrary\obj\Debug\netcoreapp2.0\ParkingLibrary.AssemblyInfo.cs
-C:\Users\Felix Cukerman\Documents\GitProject\ParkingSpaceApi\ParkingLibrary\obj\Debug\netcoreapp2.0\ParkingLibrary.dll
-C:\Users\Felix Cukerman\Documents\GitProject\ParkingSpaceApi\ParkingLibrary\obj\Debug\netcoreapp2.0\ParkingLibrary.pdb
