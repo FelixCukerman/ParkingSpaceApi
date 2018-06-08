@@ -9,7 +9,7 @@ using System.Runtime.Serialization.Formatters.Binary;
 
 namespace ParkingLib
 {
-    class Parking
+    public class Parking
     {
         private static readonly Lazy<Parking> lazy = new Lazy<Parking>(() => new Parking());
         private List<Car> area;

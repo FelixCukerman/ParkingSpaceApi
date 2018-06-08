@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ParkingLib
 {
-    static class Settings
+    public static class Settings
     {
         readonly public static Dictionary<CarType, int> priceList;
 

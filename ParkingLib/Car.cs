@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ParkingLib
 {
-    class Car
+    public class Car
     {
         readonly int id;
         public int Id
@@ -54,7 +54,7 @@ namespace ParkingLib
         }
     }
 
-    enum CarType
+    public enum CarType
     {
         Passenger = 1,
         Truck,

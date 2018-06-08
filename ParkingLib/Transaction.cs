@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace ParkingLib
 {
     [Serializable]
-    class Transaction
+    public class Transaction
     {
         readonly DateTime date;
         public DateTime Date
