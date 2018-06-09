@@ -25,8 +25,7 @@ namespace ParkingApi.Controllers
         [HttpGet]
         public async Task<JsonResult> GetAllCar()
         {
-            var query = JsonConvert.DeserializeObject<List<Car>>(await service.GetCar());
-            return Json(query);
+            return Json(await service.GetCar());
         }
 
         // GET api/GetCar/1 (example)

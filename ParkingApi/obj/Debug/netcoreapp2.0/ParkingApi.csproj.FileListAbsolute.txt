@@ -12,7 +12,6 @@ C:\Users\Felix Cukerman\Documents\GitProject\ParkingSpaceApi\ParkingApi\obj\Debu
 C:\Users\Felix Cukerman\Documents\GitProject\ParkingSpaceApi\ParkingApi\obj\Debug\netcoreapp2.0\ParkingApi.dll
 C:\Users\Felix Cukerman\Documents\GitProject\ParkingSpaceApi\ParkingApi\obj\Debug\netcoreapp2.0\ParkingApi.pdb
 C:\Users\Felix Cukerman\Documents\GitProject\ParkingSpaceApi\ParkingApi\obj\Debug\netcoreapp2.0\ParkingApi.csprojResolveAssemblyReference.cache
-C:\Users\Felix Cukerman\Source\Repos\ParkingSpaceApi\ParkingApi\obj\Debug\netcoreapp2.0\ParkingApi.csprojResolveAssemblyReference.cache
 C:\Users\Felix Cukerman\Source\Repos\ParkingSpaceApi\ParkingApi\obj\Debug\netcoreapp2.0\ParkingApi.csproj.CoreCompileInputs.cache
 C:\Users\Felix Cukerman\Source\Repos\ParkingSpaceApi\ParkingApi\obj\Debug\netcoreapp2.0\ParkingApi.AssemblyInfoInputs.cache
 C:\Users\Felix Cukerman\Source\Repos\ParkingSpaceApi\ParkingApi\obj\Debug\netcoreapp2.0\ParkingApi.AssemblyInfo.cs
@@ -26,3 +25,4 @@ C:\Users\Felix Cukerman\Source\Repos\ParkingSpaceApi\ParkingApi\bin\Debug\netcor
 C:\Users\Felix Cukerman\Source\Repos\ParkingSpaceApi\ParkingApi\bin\Debug\netcoreapp2.0\ParkingLib.dll
 C:\Users\Felix Cukerman\Source\Repos\ParkingSpaceApi\ParkingApi\bin\Debug\netcoreapp2.0\ParkingLib.pdb
 C:\Users\Felix Cukerman\Source\Repos\ParkingSpaceApi\ParkingApi\obj\Debug\netcoreapp2.0\ParkingApi.csproj.CopyComplete
+C:\Users\Felix Cukerman\Source\Repos\ParkingSpaceApi\ParkingApi\obj\Debug\netcoreapp2.0\ParkingApi.csprojResolveAssemblyReference.cache
