@@ -15,4 +15,3 @@ C:\Users\Felix Cukerman\Source\Repos\ParkingSpaceApi\ParkingLib\obj\Debug\netcor
 C:\Users\Felix Cukerman\Source\Repos\ParkingSpaceApi\ParkingLib\obj\Debug\netcoreapp2.0\ParkingLib.AssemblyInfo.cs
 C:\Users\Felix Cukerman\Source\Repos\ParkingSpaceApi\ParkingLib\obj\Debug\netcoreapp2.0\ParkingLib.dll
 C:\Users\Felix Cukerman\Source\Repos\ParkingSpaceApi\ParkingLib\obj\Debug\netcoreapp2.0\ParkingLib.pdb
-C:\Users\Felix Cukerman\Source\Repos\ParkingSpaceApi\ParkingLib\obj\Debug\netcoreapp2.0\ParkingLib.csprojResolveAssemblyReference.cache

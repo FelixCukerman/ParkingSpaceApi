@@ -21,15 +21,16 @@ namespace ParkingApi.Controllers
         }
 
         // GET api/GetCars (example)
-        [Route("api/GetCars")]
+        [Route("api/cars")]
         [HttpGet]
         public async Task<JsonResult> GetAllCar()
         {
-            return Json(await service.GetCar());
+            var query = JsonConvert.DeserializeObject<List<Car>>(await service.GetCar());
+            return Json(query);
         }
 
         // GET api/GetCar/1 (example)
-        [Route("api/GetCar/{id}")]
+        [Route("api/car/{id}")]
         [HttpGet]
         public async Task<JsonResult> GetCarById(int id)
         {
